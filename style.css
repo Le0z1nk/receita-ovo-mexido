@@ -33,3 +33,11 @@ body {
     margin-top: 1rem;
     font-size: 2rem;
 }
+
+
+
+@media (min-width: 201px) and (max-width: 500px){
+    .ovo {
+        width: 75vw;
+    }
+}
